@@ -11,7 +11,7 @@ Purpose: Encryption and decryption using Hill Cipher
 
 int main()
 {
-	PlaySoundA("skyrim.wav", NULL, SND_ASYNC | SND_LOOP | SND_FILENAME);//Play Music
+	PlaySoundA("skyrim.wav", NULL, SND_ASYNC | SND_LOOP | SND_FILENAME);//Play Music 
 	string choice;//choice
 	while (1)//infinite loop
 	{
